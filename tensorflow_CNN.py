@@ -8,6 +8,7 @@ data = pd.read_csv("data/train.csv")
 
 test = pd.read_csv("data/test.csv")
 #testX = test.values
+#for test
 
 # Separating the labels from the training set
 #trainX = data[:, 1:]
